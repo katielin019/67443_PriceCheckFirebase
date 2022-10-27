@@ -1,0 +1,68 @@
+[
+  {
+    "id": "EF1CC5BB-4785-4D8E-AB98-5FA4E00B6A66",
+    "location": "Target",
+    "scans": [
+      {
+        "id": "EDCD038C-036F-4C40-826F-61C88CD84DDD",
+        "item": "Charmin Soft 12 Mega Rolls",
+        "price": 14.79,
+        "date": "2020-10-10T16:48:00"
+      },
+      {
+        "id": "36A7CC40-18C1-48E5-BCD8-3B42D43BEAEE",
+        "item": "Charmin Soft 18 Mega Rolls",
+        "price": 19.99,
+        "date": "2020-10-10T16:49:00"
+      },
+      {
+        "id": "CFB8C2DB-3478-4A10-92FA-3D2A2D5324FB",
+        "item": "Crest Toothpaste 2pk",
+        "price": 3.59,
+        "date": "2020-10-10T16:51:00"
+      },
+      {
+        "id": "8903A204-F5C1-4D5C-A0A1-5C0ECD27FDD7",
+        "item": "Colgate Toothpaste 3 pk",
+        "price": 3.99,
+        "date": "2020-10-10T16:52:00"
+      },
+      {
+        "id": "82B28AFF-BB29-4186-AA07-04959180D81A",
+        "item": "York Peppermint Patties",
+        "price": 3.59,
+        "date": "2020-10-10T16:57:00"
+      }
+    ]
+  },
+  {
+    "id": "1C89DAFD-7653-4EF2-BF20-C51A159BAC43",
+    "location": "Giant Eagle",
+    "scans": [
+      {
+        "id": "759527CB-1064-4082-A527-F04698F9D18F",
+        "item": "Hershey Minatures 17.6oz",
+        "price": 5.89,
+        "date": "2020-10-09T16:42:00"
+      },
+      {
+        "id": "AD419CE6-50CC-4132-BE8E-B92B9DFE4D02",
+        "item": "York Peppermint Patties",
+        "price": 3.49,
+        "date": "2020-10-09T16:43:00"
+      },
+      {
+        "id": "D44AAEBC-BF4F-42CD-8C37-0FEF772A5B69",
+        "item": "Charmin Soft 12 Mega Rolls",
+        "price": 14.95,
+        "date": "2020-10-09T16:58:00"
+      },
+      {
+        "id": "2BAD20C5-D007-4BBE-B074-8CF0F256A42F",
+        "item": "Charmin Soft 18 Mega Rolls",
+        "price": 21.99,
+        "date": "2020-10-09T16:59:00"
+      }
+    ]
+  }
+]
